@@ -1,0 +1,6 @@
+{
+  "name": "BookEase AI",
+  "description": "An elegant appointment booking and management platform for customers and service providers.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
